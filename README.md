@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a passionate **DevOps Engineer** with **3 years of han
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Bro-Balaji]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bro-Balaji&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
 
 ## 🌍 Let's Connect
 
