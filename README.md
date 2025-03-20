@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Balaji] | DevOps Engineer
+# 👋 Hi, I'm Balaji | DevOps Engineer
 
 Welcome to my GitHub! I'm a passionate **DevOps Engineer** with **3 years of hands-on experience** in cloud and on-prem environments. I thrive in building scalable, efficient, and automated systems. My goal is to make development pipelines smoother, infrastructure more reliable, and services more efficient.
 
